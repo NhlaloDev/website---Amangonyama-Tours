@@ -51,10 +51,10 @@ h1, h2, h3, h4, h5,
     box-shadow: none !important; }
 
 .site-section {
-  padding: 2.5em 0; }
+  padding: 1.5em 0; }
   @media (min-width: 768px) {
     .site-section {
-      padding: 5em 0; } }
+      padding: 2em 0; } }
 
 .site-footer {
   padding: 4em 0;
@@ -410,10 +410,10 @@ h1, h2, h3, h4, h5,
     color: #fff; }
 
 .site-section {
-  padding: 7rem 0; }
+  padding: 3rem 0; }
   @media (max-width: 991.98px) {
     .site-section {
-      padding: 3rem 0; } }
+      padding: 1rem 0; } }
 
 .by {
   color: #000;
